@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**TopsyKret/TopsyKret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**TopsyKret/TopsyKret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m Jagriti, working as a Senior Software Engineer - Testing(Application & Embedded)
 - 🌱 I’m currently learning Python & REST API's
